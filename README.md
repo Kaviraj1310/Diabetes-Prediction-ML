@@ -1,4 +1,5 @@
 🩺 Diabetes Prediction using Machine Learning
+
 📌 Overview
 
 This project builds a Machine Learning classification model to predict whether a person is likely to have diabetes based on medical diagnostic features. The goal is to assist in early detection using data-driven analysis and predictive modeling techniques.
@@ -73,5 +74,7 @@ Real-time prediction interface
 
 Kaviraj Thangapandian
 B.Tech CSE (AI & ML Specialization)
+
 📧 Email: kaviraj.thangapndian@gmail.com  
+
 🔗 LinkedIn: [https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/kaviraj-thangapandian)
