@@ -71,9 +71,7 @@ Real-time prediction interface
 
 👨‍💻 Author
 
-👨‍💻 Author
-
-Kaviraj T
+Kaviraj Thangapandian
 B.Tech CSE (AI & ML Specialization)
 📧 Email: kaviraj.thangapndian@gmail.com  
 🔗 LinkedIn: [https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/kaviraj-thangapandian)
